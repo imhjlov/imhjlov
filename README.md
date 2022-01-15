@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=F6ECC6&height=200&section=header&text=imhjlov%20github&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=ED6782&height=200&section=header&text=imhjlov%20github&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
 
 ## 🤗 Welcome
 My name is Park Hyeonjeong. I’m currently learning **TypeScript, Nest.js** 🌱
